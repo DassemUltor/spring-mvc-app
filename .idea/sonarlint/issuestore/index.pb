@@ -16,10 +16,6 @@ I
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-W
-'src/main/java/ru/maxima/Controller.java,a\3\a3a9f9689820b7c9011e6dc939f8537e1090e33b
-Y
-)src/main/webapp/applicationContextMVC.xml,b\9\b9cc6e21cab52e4adfc2f5c71aed790dfb7f8f3e
 ]
 -src/main/webapp/WEB-INF/views/hello-user.html,4\c\4c7bf04086497e384fc4b85489c8fd5f348822a6
 \
@@ -64,3 +60,5 @@ Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba763464
 Q.idea/sonarlint/securityhotspotstore/4/c/4c7bf04086497e384fc4b85489c8fd5f348822a6,e\0\e08d6a578fec21ed689bcd3c0704bfbedfacf49a
 Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
+X
+(src/main/webapp/WEB-INF/Apache..htaccess,b\c\bc00d01a19574e539b52261c269ae5d924ab83f8
