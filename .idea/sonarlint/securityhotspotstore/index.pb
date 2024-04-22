@@ -62,3 +62,9 @@ Q.idea/sonarlint/securityhotspotstore/4/c/4c7bf04086497e384fc4b85489c8fd5f348822
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 X
 (src/main/webapp/WEB-INF/Apache..htaccess,b\c\bc00d01a19574e539b52261c269ae5d924ab83f8
+V
+&src/main/java/ru/maxima/Calculate.java,5\5\5501a9f9660522fc0db99a52bf638e2d221fae36
+c
+3src/main/webapp/WEB-INF/views/RequestCalculate.html,7\d\7d567dc045b1a8efefb0dc282103930a7ce616a0
+c
+3src/main/webapp/WEB-INF/views/requestCalculate.html,9\1\917d26442dd239b42b86bf9879cd14850fbbd705
